@@ -7,6 +7,6 @@ public class Test {
 	public int  m2()
 	{
 		System.out.println("this is new implemented logic");
-		return 5;
+		return 53;
 	}
 }
